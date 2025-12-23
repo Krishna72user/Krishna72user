@@ -64,7 +64,7 @@
 ---
 
 ### 🤝 **Let's Connect**
-🔗 **Portfolio:** [portfolio-krishna32.netlify.app](https://portfolio-krishna32.netlify.app/)  
+🔗 **Portfolio:**[https://react-portfolio-client.vercel.app/](https://react-portfolio-client.vercel.app/)
 💼 **LinkedIn:** [Krishna Laha](https://www.linkedin.com/in/krishna-laha-a28477303/)  
 📧 **Email:** [krishnalaha1234567890@gmail.com](mailto:krishnalaha1234567890@gmail.com)  
 🐱 **GitHub:** [Krishna72user](https://github.com/Krishna72user)
