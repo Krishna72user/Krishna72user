@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Krishna Laha</h1>
-<h3 align="center">🚀 Full-Stack Developer | Passionate about crafting seamless digital experiences</h3>
+<h3 align="center">Data Science enthusiast | 🚀 Full-Stack Developer | Passionate about crafting seamless digital experiences</h3>
 
 <p align="center">
-  <a href="https://portfolio-krishna32.netlify.app/" target="_blank">
+  <a href="https://react-portfolio-client.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/krishna-laha-a28477303/" target="_blank">
